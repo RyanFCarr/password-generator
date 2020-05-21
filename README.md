@@ -1,4 +1,5 @@
-# password-generator
+# Title
+password-generator
 
 # Description
 This program will generate a secure password consisting of 
